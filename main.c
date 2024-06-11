@@ -2,7 +2,7 @@
 #include "msp.h"
 #include "../inc/CortexM.h"
 #include "../inc/Clock.h"
-#include "../inc/Motor.h"
+//#include "../inc/Motor.h"
 #include "../inc/SysTickInts.h"
 #include "../inc/BumpInt.h"
 #include "../inc/FlashProgram.h"
